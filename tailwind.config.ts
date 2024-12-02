@@ -33,6 +33,7 @@ export default {
         secondary: '#071108', // Cor Secundária
         backgroundMain: '#FFFFFF', // Cor de Fundo Principal
         backgroundAlt: '#FFC2C2', // Cor de Fundo Alternativo
+        backgroungCard: '#000000', // Cor de Fundo de Cards
         textPrimary: '#FFFFFF', // Texto Principal
         textSecondary: '#666666', // Texto Secundário
         buttonHighlight: '#1D9BF0', // Destaques e Botões Futuros
